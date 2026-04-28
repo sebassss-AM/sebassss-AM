@@ -5,14 +5,16 @@
 
 ## 🛠️ Proyectos Destacados
 
-### 📅 [Planificador de Horarios SIUG (Chrome Extension)](AQUÍ_PEGA_EL_LINK_DEL_REPO_DOC_DEL_PLANIFICADOR)
+### 📅 [Planificador de Horarios SIUG (Chrome Extension)](https://github.com/sebassss-AM/Planificador-Horarios-UG
+)
 *Proyecto de automatización para la comunidad universitaria.*
 - **¿Qué hace?:** Optimiza la generación de horarios extrayendo datos directamente del SIUG.
 - **Tecnologías:** JavaScript (Manipulación del DOM), Chrome Extensions API, CSS3.
 - **Estado:** 🔒 **Código Fuente Privado** | 📖 [Leer Documentación Completa](https://github.com/sebassss-AM/Planificador-UG-Docs
 )
 
-### 💰 [SebasFinanzas (Web App) (BETA)](AQUÍ_PEGA_EL_LINK_DEL_REPO_DOC_DE_FINANZAS)
+### 💰 [SebasFinanzas (Web App) (BETA)](https://github.com/sebassss-AM/SebasFinanzas
+)
 *Aplicación para el control de gastos personales.*
 - **Características:** Registro diario de movimientos y persistencia de datos local.
 - **Tecnologías:** HTML5, CSS3, JavaScript.
