@@ -13,6 +13,7 @@ Estudiante de Ingeniería en Sistemas de Información | Universidad de Guayaquil
 *Aplicación para el control de gastos personales.*
 - **Características:** Registro diario de ingresos/egresos, categorías personalizadas y persistencia de datos local.
 - **Tecnologías:** HTML5, CSS3, JavaScript.
+- **Nota:** 💻 Optimizado para **Laptop/PC** (Versión móvil en desarrollo).
 - [🌐 Probar Aplicación en Vivo](https://sebas-finanzas.vercel.app/)
 
 ---
