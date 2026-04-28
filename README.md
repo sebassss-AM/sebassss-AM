@@ -1,4 +1,4 @@
-# ¡Hola! Soy Gerardo Sebastián 🚀
+# ¡Hola! Soy Gerardo Sebastián Anchundia Moreira 🚀
 Estudiante de Ingeniería en Sistemas de Información | Universidad de Guayaquil
 
 ## 🛠️ Proyectos Destacados
