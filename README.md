@@ -1,5 +1,7 @@
-# ¡Hola! mi nombre es Gerardo Anchundia Moreira 🚀
-**Estudiante de Ingeniería en Sistemas de Información | Universidad de Guayaquil**
+# ¡Hola! Soy Gerardo. 🚀
+**Estudiante de Ingeniería en Sistemas - UG
+
+Portafolio en construcción | Desarrollo de herramientas con IA.**
 
 ---
 
