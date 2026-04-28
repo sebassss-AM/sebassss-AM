@@ -9,7 +9,7 @@ Estudiante de Ingeniería en Sistemas de Información | Universidad de Guayaquil
 - **Tecnologías:** JavaScript (Manipulación del DOM), Chrome Extensions API, CSS3.
 - **Estado:** 🔒 Repositorio Privado (Disponible para revisión bajo solicitud).
 
-### 💰 SebasFinanzas (Web App)
+### 💰 SebasFinanzas (Web App) (BETA)
 *Aplicación para el control de gastos personales.*
 - **Características:** Registro diario de ingresos/egresos, categorías personalizadas y persistencia de datos local.
 - **Tecnologías:** HTML5, CSS3, JavaScript.
@@ -17,7 +17,7 @@ Estudiante de Ingeniería en Sistemas de Información | Universidad de Guayaquil
 - [🌐 Probar Aplicación en Vivo](https://sebas-finanzas.vercel.app/)
 
 ---
-📫 **Contacto:** [sebastiananchundiam@gmail.com]
+📫 **Contacto:** [sebastiananchundiam@gmail.com] [+593 99 981 3037]
 <!--
 **sebassss-AM/sebassss-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
