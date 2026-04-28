@@ -13,6 +13,11 @@ https://github.com/sebassss-AM/Planificador-Horarios-UG
 - **Tecnologías:** JavaScript (Manipulación del DOM), Chrome Extensions API, CSS3.
 - **Estado:** 🔒 **Código Fuente Privado** | 📖 [Leer Documentación Completa](https://github.com/sebassss-AM/Planificador-UG-Docs
 )
+Preview:
+<video src="https://github.com/user-attachments/assets/b1350313-4650-442e-9a1b-dd3b3b0a8921" controls="controls" style="max-width: 100%;">
+  Tu navegador no soporta el video.
+</video>
+
 
 ### 💰 SebasFinanzas -Web App- BETA 
 https://github.com/sebassss-AM/SebasFinanzas
