@@ -1,4 +1,4 @@
-# ¡Hola! Soy Gerardo Sebastián Anchundia Moreira 🚀
+# ¡Hola! mi nombre es Gerardo Anchundia Moreira 🚀
 **Estudiante de Ingeniería en Sistemas de Información | Universidad de Guayaquil**
 
 ---
