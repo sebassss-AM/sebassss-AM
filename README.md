@@ -1,20 +1,24 @@
 # ¡Hola! Soy Gerardo Sebastián Anchundia Moreira 🚀
-Estudiante de Ingeniería en Sistemas de Información | Universidad de Guayaquil
+**Estudiante de Ingeniería en Sistemas de Información | Universidad de Guayaquil**
+
+---
 
 ## 🛠️ Proyectos Destacados
 
-### 📅 Planificador de Horarios SIUG (Chrome Extension)
+### 📅 [Planificador de Horarios SIUG (Chrome Extension)](AQUÍ_PEGA_EL_LINK_DEL_REPO_DOC_DEL_PLANIFICADOR)
 *Proyecto de automatización para la comunidad universitaria.*
-- **¿Qué hace?:** Optimiza la generación de horarios extrayendo datos directamente del SIUG y permitiendo exportarlos de forma organizada.
+- **¿Qué hace?:** Optimiza la generación de horarios extrayendo datos directamente del SIUG.
 - **Tecnologías:** JavaScript (Manipulación del DOM), Chrome Extensions API, CSS3.
-- **Estado:** 🔒 Repositorio Privado (Disponible para revisión bajo solicitud).
+- **Estado:** 🔒 **Código Fuente Privado** | 📖 [Leer Documentación Completa](https://github.com/sebassss-AM/Planificador-UG-Docs
+)
 
-### 💰 SebasFinanzas (Web App) (BETA)
+### 💰 [SebasFinanzas (Web App) (BETA)](AQUÍ_PEGA_EL_LINK_DEL_REPO_DOC_DE_FINANZAS)
 *Aplicación para el control de gastos personales.*
-- **Características:** Registro diario de ingresos/egresos, categorías personalizadas y persistencia de datos local.
+- **Características:** Registro diario de movimientos y persistencia de datos local.
 - **Tecnologías:** HTML5, CSS3, JavaScript.
+- **Estado:** 🔒 **Código Fuente Privado** | [🌐 Probar Aplicación en Vivo](https://sebas-finanzas.vercel.app/)
+- 📖 [Leer Documentación Completa](https://github.com/sebassss-AM/SebasFinanzas-Docs)
 - **Nota:** 💻 Optimizado para **Laptop/PC** (Versión móvil en desarrollo).
-- [🌐 Probar Aplicación en Vivo](https://sebas-finanzas.vercel.app/)
 
 ---
 📫 **Contacto:** [sebastiananchundiam@gmail.com] [+593 99 981 3037]
