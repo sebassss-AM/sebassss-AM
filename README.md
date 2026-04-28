@@ -1,5 +1,22 @@
-## Hi there 👋
+# ¡Hola! Soy Gerardo Sebastián 🚀
+Estudiante de Ingeniería en Sistemas de Información | Universidad de Guayaquil
 
+## 🛠️ Proyectos Destacados
+
+### 📅 Planificador de Horarios SIUG (Chrome Extension)
+*Proyecto de automatización para la comunidad universitaria.*
+- **¿Qué hace?:** Optimiza la generación de horarios extrayendo datos directamente del SIUG y permitiendo exportarlos de forma organizada.
+- **Tecnologías:** JavaScript (Manipulación del DOM), Chrome Extensions API, CSS3.
+- **Estado:** 🔒 Repositorio Privado (Disponible para revisión bajo solicitud).
+
+### 💰 SebasFinanzas (Web App)
+*Aplicación para el control de gastos personales.*
+- **Características:** Registro diario de ingresos/egresos, categorías personalizadas y persistencia de datos local.
+- **Tecnologías:** HTML5, CSS3, JavaScript.
+- [🌐 Probar Aplicación en Vivo]([TU_LINK_DE_VERCEL_AQUÍ](https://sebas-finanzas.vercel.app/))
+
+---
+📫 **Contacto:** [sebastiananchundiam@gmail.com]
 <!--
 **sebassss-AM/sebassss-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
