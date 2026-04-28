@@ -25,7 +25,8 @@ https://github.com/sebassss-AM/SebasFinanzas
 - **Nota:** 💻 Optimizado para **Laptop/PC** (Versión móvil en desarrollo).
 
 ---
-📫 **Contacto:** [sebastiananchundiam@gmail.com] [+593 99 981 3037]
+📫 **Contacto:** sebastiananchundiam@gmail.com 
+                 +593 99 981 3037
 <!--
 **sebassss-AM/sebassss-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
