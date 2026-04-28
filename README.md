@@ -1,7 +1,7 @@
 # ¡Hola! Soy Gerardo. 🚀
 **Estudiante de Ingeniería en Sistemas - UG**
 
-**Portafolio en construcción | Desarrollo de herramientas con IA.**
+**Desarrollando herramientas con IA y explorando nuevas tecnologías.**
 
 ---
 
