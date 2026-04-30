@@ -8,7 +8,6 @@
 ## 🛠️ Proyectos Destacados
 
 ### 📅 Planificador de Horarios SIUG -Chrome Extension 
-https://github.com/sebassss-AM/Planificador-Horarios-UG
 
 *Proyecto de automatización para la comunidad universitaria.*
 - **¿Qué hace?:** Optimiza la generación de horarios extrayendo datos directamente del SIUG.
