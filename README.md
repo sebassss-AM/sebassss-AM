@@ -27,7 +27,7 @@ https://github.com/sebassss-AM/SebasFinanzas
 *Aplicación para el control de gastos personales.*
 - **Características:** Registro diario de movimientos y persistencia de datos local.
 - **Tecnologías:** HTML5, CSS3, JavaScript.
-- **Estado:** 🔒 **Código Fuente Privado** | [🌐 Probar Aplicación en Vivo](https://sebas-finanzas.vercel.app/)
+- [🌐 Probar Aplicación en Vivo](https://sebas-finanzas.vercel.app/)
 - 📖 [Leer Documentación Completa](https://github.com/sebassss-AM/SebasFinanzas-Docs)
 - **Nota:** 💻 Optimizado para **Laptop/PC** (Versión móvil en desarrollo).
 
