@@ -21,7 +21,6 @@ Preview:
 
 
 ### 💰 SebasFinanzas -Web App- BETA 
-https://github.com/sebassss-AM/SebasFinanzas
 
 *Aplicación para el control de gastos personales.*
 - **Características:** Registro diario de movimientos y persistencia de datos local.
