@@ -3,6 +3,8 @@
 
 **Desarrollando herramientas con IA y explorando nuevas tecnologías.**
 
+Estudiante de Ingeniería en Sistemas | Fullstack Developer Jr. | Integración de IA & Prompt Engineering | Soporte Linux/Windows
+
 ---
 
 ## 🛠️ Proyectos Destacados
