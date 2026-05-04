@@ -25,7 +25,7 @@ Preview:
 ### 💰 SebasFinanzas -Web App- BETA 
 
 *Aplicación para el control de gastos personales.*
-- **Características:** Registro diario de movimientos y persistencia de datos local.
+- **Características:** Registro diario de movimientos, agente IA, persistencia de datos local y sincronización con google drive.
 - **Tecnologías:** HTML5, CSS3, JavaScript.
 - | 📖 [Leer Documentación Completa](https://github.com/sebassss-AM/SebasFinanzas-Docs)
 - [🌐 Probar Aplicación en Vivo](https://sebas-finanzass.vercel.app/)
