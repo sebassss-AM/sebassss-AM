@@ -26,7 +26,6 @@ Preview:
 - **Características:** Registro diario de movimientos y persistencia de datos local.
 - **Tecnologías:** HTML5, CSS3, JavaScript.
 - | 📖 [Leer Documentación Completa](https://github.com/sebassss-AM/SebasFinanzas-Docs)
-- 
 - [🌐 Probar Aplicación en Vivo](https://sebas-finanzass.vercel.app/)
 - **Nota:** 💻 Optimizado perfectamente para **Laptop/PC** (Versión móvil beta, se puede instalar como aplicación).
 
