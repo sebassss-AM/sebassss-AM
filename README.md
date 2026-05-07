@@ -1,4 +1,4 @@
-# ¡Hola! Soy Gerardo. 🚀
+# ¡Hola! Soy Gerardo. 👋
 **Estudiante de Ingeniería en Sistemas - UG**
 
 **Desarrollando herramientas con IA y explorando nuevas tecnologías.**
@@ -7,7 +7,7 @@ Estudiante de Ingeniería en Sistemas | Fullstack Developer Jr. | Integración d
 
 ---
 
-## 🛠️ Proyectos Destacados
+## 💼 Proyectos Destacados
 
 ### 📅 Planificador de Horarios SIUG -Chrome Extension 
 
