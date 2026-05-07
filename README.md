@@ -1,11 +1,11 @@
 # ¡Hola! Soy Gerardo. 👋
 **Estudiante de Ingeniería en Sistemas - UG**
 
-**Desarrollando herramientas con IA y explorando nuevas tecnologías.**
+*Desarrollando herramientas con IA y explorando nuevas tecnologías.*
 
 Estudiante de Ingeniería en Sistemas | Fullstack Developer Jr. | Integración de IA & Prompt Engineering | Soporte Linux/Windows
 
----
+--
 
 ## 💼 Proyectos Destacados
 
@@ -49,7 +49,7 @@ SebasFinanzas es una PWA (Progressive Web App) diseñada para quienes buscan el 
 
 **💡 Nota:** Optimizada para una experiencia fluida en Desktop/Laptop. Versión móvil disponible para instalación directa como App (BETA).
 
----
+--
 📫 **Contacto:** sebastiananchundiam@gmail.com 
                  +593 99 981 3037
 <!--
