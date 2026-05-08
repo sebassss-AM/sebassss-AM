@@ -1,4 +1,4 @@
-# ¡Hola! Soy Gerardo. 👋
+# ¡Hola! Soy Sebastián. 👋
 **Estudiante de Ingeniería en Sistemas - UG**
 
 *Desarrollando herramientas con IA y explorando nuevas tecnologías.*
