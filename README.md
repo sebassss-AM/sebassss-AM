@@ -63,9 +63,9 @@ SebasFinanzas es una PWA (Progressive Web App) diseñada para quienes buscan el 
 - **WhatsApp:** [+593 99 981 3037](https://wa.me/593999813037)
 
 ---
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sebassss-AM&theme=tokyonight&show_icons=true&hide_border=true" alt="Stats" height="150" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sebassss-AM&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Sebastián GitHub Stats" />
+</p>
 <!--
 **sebassss-AM/sebassss-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
