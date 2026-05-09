@@ -1,5 +1,5 @@
 <div align="center">
-  <h1># ¡Hola! Soy Sebastián. 👋</h1>
+  <h1> ¡Hola! Soy Sebastián. 👋</h1>
   <p><b>Estudiante de Ingeniería en Sistemas - UG</b></p>
   <p><i>Desarrollando herramientas con IA y explorando nuevas tecnologías.</i></p>
   <code>Estudiante de Ingeniería en Sistemas | Fullstack Developer Jr. | Integración de IA & Prompt Engineering | Soporte Linux/Windows</code>
