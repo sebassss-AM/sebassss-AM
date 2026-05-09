@@ -64,7 +64,7 @@ SebasFinanzas es una PWA (Progressive Web App) diseñada para quienes buscan el 
 
 ---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,java,html,css,tailwind,linux,windows,figma,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,py,java,html,css,tailwind,linux,windows,figma,github,vscode,git&theme=dark" />
 </p>
 <!--
 **sebassss-AM/sebassss-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
