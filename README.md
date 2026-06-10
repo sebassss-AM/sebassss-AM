@@ -1,8 +1,8 @@
 <div align="center">
 
-<sub>UNIVERSIDAD DE GUAYAQUIL &nbsp;·&nbsp; INGENIERÍA EN SISTEMAS DE INFORMACIÓN</sub>
+<sub>Estudiante &nbsp;·&nbsp; Ingeniería en Sistemas de Información &nbsp;·&nbsp; Universidad de Guayaquil</sub>
 
-# Hola, soy Sebastián
+<h1 align="center"><b>Hola, soy Sebastián</b></h1>
 
 ![Fullstack Developer Jr.](https://img.shields.io/badge/Fullstack_Developer_Jr.-0d0d0d?style=flat-square&logoColor=white)
 ![IA & Prompt Engineering](https://img.shields.io/badge/IA_%26_Prompt_Engineering-0d0d0d?style=flat-square)
@@ -10,8 +10,8 @@
 
 <br>
 
-[![Email](https://img.shields.io/badge/sebastiananchundiam%40gmail.com-ffffff?style=flat-square&logo=gmail&logoColor=0d0d0d&labelColor=ffffff&color=ffffff&borderColor=0d0d0d)](mailto:sebastiananchundiam@gmail.com)&nbsp;
-[![WhatsApp](https://img.shields.io/badge/%2B593_99_981_3037-ffffff?style=flat-square&logo=whatsapp&logoColor=0d0d0d&labelColor=ffffff&color=ffffff)](https://wa.me/593999813037)
+[![Email](https://img.shields.io/badge/sebastiananchundiam%40gmail.com-0d0d0d?style=flat-square&logo=gmail&logoColor=white)](mailto:sebastiananchundiam@gmail.com)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/%2B593_99_981_3037-0d0d0d?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/593999813037)
 
 </div>
 
@@ -19,14 +19,15 @@
 
 ---
 
-<sub>PROYECTOS DESTACADOS</sub>
+<sub><b>PROYECTOS DESTACADOS</b></sub>
 
-### 📅 Planificador de Horarios UG &nbsp;·&nbsp; `Chrome Extension`
+<br>
 
-> *Proyecto personal de automatización dirigido a estudiantes de la UG*
+<h3><b>Planificador de Horarios UG</b> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/Chrome_Extension-6E40C9?style=flat-square&logoColor=white"/></h3>
+
+*- Proyecto personal de automatización dirigido a estudiantes de la UG*
 
 Extensión de Chrome que extrae datos directamente del SIUG y optimiza la generación de horarios académicos, eliminando el proceso manual y reduciendo errores de selección.
-
 
 [![Leer Documentación](https://img.shields.io/badge/Leer_Documentación-0d0d0d?style=flat-square&logo=github&logoColor=white)](https://github.com/sebassss-AM/Planificador-UG-Docs)
 
@@ -37,9 +38,9 @@ Extensión de Chrome que extrae datos directamente del SIUG y optimiza la genera
 
 ---
 
-### 💰 SebasFinanzas &nbsp;·&nbsp; `PWA` `IA integrada`
+<h3><b>SebasFinanzas</b> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/PWA-6E40C9?style=flat-square"/> <img src="https://img.shields.io/badge/IA_integrada-4B3B8C?style=flat-square"/></h3>
 
-> *Inteligencia financiera con privacidad total — tus datos nunca salen de tu dispositivo*
+*- Inteligencia financiera con privacidad total — tus datos nunca salen de tu navegador*
 
 PWA diseñada para quienes buscan el control total de su dinero sin sacrificar su privacidad. A diferencia de otras apps, tus datos financieros nunca tocan un servidor externo: todo se cifra y gestiona localmente en tu navegador.
 
@@ -47,30 +48,32 @@ PWA diseñada para quienes buscan el control total de su dinero sin sacrificar s
 
 **Características destacadas**
 
-- 🤖 &nbsp;**FinanzaIA** — Agente inteligente que entiende lenguaje natural. Escribe *"Gasté $10 en café"* y él se encarga del resto.
-- 🛡️ &nbsp;**Privacidad total** — Tus datos se cifran y almacenan localmente en tu navegador. Nadie externo puede acceder a ellos.
-- ☁️ &nbsp;**Sincronización privada** — Backup automático en tu propio Google Drive vía `appDataFolder` (espacio oculto e inaccesible para terceros).
-- 📊 &nbsp;**Dashboard visual** — Análisis de gastos por categoría y tendencias, y más.
-- 🔋 &nbsp;**Offline-first** — La gestión de finanzas funciona sin conexión. La sincronización con Google Drive y el agente IA requieren internet.
+- **FinanzaIA** — Agente inteligente que entiende lenguaje natural. Escribe *"Gasté $10 en café"* y él se encarga del resto.
+- **Privacidad total** — Tus datos se cifran y almacenan localmente en tu navegador. Nadie externo puede acceder a ellos.
+- **Sincronización privada** — Backup automático en tu propio Google Drive en un espacio oculto e inaccesible para terceros.
+- **Dashboard visual** — Análisis de gastos por categoría y tendencias, y más.
+- **Offline-first** — La gestión de finanzas funciona sin conexión. La sincronización con Google Drive y el agente IA requieren internet.
 
 <br>
 
 <div align="center">
 
 [![Probar Demo](https://img.shields.io/badge/Probar_Demo-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://sebas-finanzass.vercel.app/)&nbsp;
-[![Documentación](https://img.shields.io/badge/Documentación-4B3B8C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebassss-AM/SebasFinanzas-Docs)
+[![Documentación](https://img.shields.io/badge/Documentación-6E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebassss-AM/SebasFinanzas-Docs)
 
 <img width="100%" alt="SebasFinanzas preview" src="https://github.com/user-attachments/assets/37e41836-d1f4-4780-8653-ad636982c545" />
 
 </div>
 
-> 💡 Optimizada para escritorio. Disponible también como PWA instalable en móvil.
+<br>
+
+*- Optimizada para escritorio. Disponible también como PWA instalable en móvil.*
 
 ---
 
 <div align="center">
 
-<sub>STACK TECNOLÓGICO</sub>
+<sub><b>STACK TECNOLÓGICO</b></sub>
 
 <br>
 
