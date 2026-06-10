@@ -1,82 +1,79 @@
 <div align="center">
-  <h1> ¡Hola! Soy Sebastián. 👋</h1>
-  <p><b>Estudiante de Ingeniería en Sistemas - UG</b></p>
-  <p><i>Desarrollando herramientas con IA y explorando nuevas tecnologías.</i></p>
-  <code>Fullstack Developer Jr. | Integración de IA & Prompt Engineering | Soporte Linux/Windows</code>
+
+<sub>UNIVERSIDAD DE GUAYAQUIL &nbsp;·&nbsp; INGENIERÍA EN SISTEMAS DE INFORMACIÓN</sub>
+
+# Hola, soy Sebastián
+
+![Fullstack Developer Jr.](https://img.shields.io/badge/Fullstack_Developer_Jr.-0d0d0d?style=flat-square&logoColor=white)
+![IA & Prompt Engineering](https://img.shields.io/badge/IA_%26_Prompt_Engineering-0d0d0d?style=flat-square)
+![Soporte Linux/Windows](https://img.shields.io/badge/Soporte_Linux%2FWindows-0d0d0d?style=flat-square)
+
+<br>
+
+[![Email](https://img.shields.io/badge/sebastiananchundiam%40gmail.com-ffffff?style=flat-square&logo=gmail&logoColor=0d0d0d&labelColor=ffffff&color=ffffff&borderColor=0d0d0d)](mailto:sebastiananchundiam@gmail.com)&nbsp;
+[![WhatsApp](https://img.shields.io/badge/%2B593_99_981_3037-ffffff?style=flat-square&logo=whatsapp&logoColor=0d0d0d&labelColor=ffffff&color=ffffff)](https://wa.me/593999813037)
+
 </div>
+
+<br>
 
 ---
 
-## 💼 Proyectos Destacados
+<sub>PROYECTOS DESTACADOS</sub>
 
-### 📅 Planificador de Horarios SIUG - Chrome Extension 
-*Proyecto de automatización para la comunidad universitaria.*
+### 📅 Planificador de Horarios UG &nbsp;·&nbsp; `Chrome Extension`
 
-<div align="left">
-  <ul>
-    <li><b>¿Qué hace?:</b> Optimiza la generación de horarios extrayendo datos directamente del SIUG.</li>
-    <li><b>Tecnologías:</b> JavaScript (Manipulación del DOM), Chrome Extensions API, CSS3.</li>
-    <li><b>Estado:</b> 🔒 <b>Código Fuente Privado</b> | 📖 <a href="https://github.com/sebassss-AM/Planificador-UG-Docs">Leer Documentación Completa</a></li>
-  </ul>
-</div>
+> *Proyecto personal de automatización dirigido a estudiantes de la UG*
+
+Extensión de Chrome que extrae datos directamente del SIUG y optimiza la generación de horarios académicos, eliminando el proceso manual y reduciendo errores de selección.
+
+
+[![Leer Documentación](https://img.shields.io/badge/Leer_Documentación-0d0d0d?style=flat-square&logo=github&logoColor=white)](https://github.com/sebassss-AM/Planificador-UG-Docs)
 
 **Preview:**
-<video src="https://github.com/user-attachments/assets/b1350313-4650-442e-9a1b-dd3b3b0a8921" controls="controls" style="max-width: 100%; border-radius: 10px;">
+<video src="https://github.com/user-attachments/assets/b1350313-4650-442e-9a1b-dd3b3b0a8921" controls style="max-width:100%;border-radius:8px;">
   Tu navegador no soporta el video.
 </video>
 
 ---
 
-### 💰 SebasFinanzas | Inteligencia Financiera & Privacidad Total 
-*Tu asistente financiero personal con cifrado de grado bancario e IA integrada.*
+### 💰 SebasFinanzas &nbsp;·&nbsp; `PWA` `IA integrada`
 
-SebasFinanzas es una PWA (Progressive Web App) diseñada para quienes buscan el control total de su dinero sin sacrificar su privacidad. A diferencia de otras apps, tus datos financieros nunca tocan un servidor externo: todo se cifra y gestiona localmente en tu dispositivo.
+> *Inteligencia financiera con privacidad total — tus datos nunca salen de tu dispositivo*
 
-#### 🚀 Características Destacadas:
-- **🤖 FinanzaIA:** Agente inteligente (Groq Llama 3.3) que entiende lenguaje natural. Por ejemplo: "Gasté $10 en café" y él se encarga del resto.
-- **🛡️ Privacidad "Zero-Knowledge":** Implementa cifrado AES-256-GCM local. Tus datos son ilegibles para cualquier persona ajena, incluso para los desarrolladores.
-- **☁️ Sincronización Privada:** Copias de seguridad automáticas en tu propio Google Drive usando un espacio oculto y seguro (appDataFolder).
-- **📊 Análisis Visual:** Dashboard interactivo con Chart.js para visualizar gastos por categorías y tendencias.
-- **🔋 Offline-First:** Funciona perfectamente sin internet gracias a su arquitectura PWA.
+PWA diseñada para quienes buscan el control total de su dinero sin sacrificar su privacidad. A diferencia de otras apps, tus datos financieros nunca tocan un servidor externo: todo se cifra y gestiona localmente en tu navegador.
 
-#### 🛠️ Stack Tecnológico:
-- **Core:** JavaScript (ES6+), HTML5, Vanilla CSS3 (Tailwind local).
-- **Criptografía:** Web Crypto API (PBKDF2 para PINs y AES para datos).
-- **Data:** IndexedDB para almacenamiento masivo local.
-- **Infraestructura:** Local-hosted (sin dependencias de CDN para máxima velocidad).
+<br>
+
+**Características destacadas**
+
+- 🤖 &nbsp;**FinanzaIA** — Agente inteligente que entiende lenguaje natural. Escribe *"Gasté $10 en café"* y él se encarga del resto.
+- 🛡️ &nbsp;**Privacidad total** — Tus datos se cifran y almacenan localmente en tu navegador. Nadie externo puede acceder a ellos.
+- ☁️ &nbsp;**Sincronización privada** — Backup automático en tu propio Google Drive vía `appDataFolder` (espacio oculto e inaccesible para terceros).
+- 📊 &nbsp;**Dashboard visual** — Análisis de gastos por categoría y tendencias, y más.
+- 🔋 &nbsp;**Offline-first** — La gestión de finanzas funciona sin conexión. La sincronización con Google Drive y el agente IA requieren internet.
+
+<br>
 
 <div align="center">
-  <p>
-    <a href="https://github.com/sebassss-AM/SebasFinanzas-Docs">📖 <b>Leer Documentación Completa</b></a> | 
-    <a href="https://sebas-finanzass.vercel.app/">🌐 <b>Probar Aplicación en Vivo</b></a>
-  </p>
-  <img width="100%" alt="image" src="https://github.com/user-attachments/assets/37e41836-d1f4-4780-8653-ad636982c545" style="border-radius: 10px;" />
+
+[![Probar Demo](https://img.shields.io/badge/Probar_Demo-0d0d0d?style=for-the-badge&logo=vercel&logoColor=white)](https://sebas-finanzass.vercel.app/)&nbsp;
+[![Documentación](https://img.shields.io/badge/Documentación-4B3B8C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sebassss-AM/SebasFinanzas-Docs)
+
+<img width="100%" alt="SebasFinanzas preview" src="https://github.com/user-attachments/assets/37e41836-d1f4-4780-8653-ad636982c545" />
+
 </div>
 
-**💡 Nota:** Optimizada para una experiencia fluida en Desktop/Laptop. Versión móvil disponible para instalación directa como App.
+> 💡 Optimizada para escritorio. Disponible también como PWA instalable en móvil.
 
 ---
 
-## 📫 Contacto
+<div align="center">
 
-- **Email:** [sebastiananchundiam@gmail.com](mailto:sebastiananchundiam@gmail.com)
-- **WhatsApp:** [+593 99 981 3037](https://wa.me/593999813037)
+<sub>STACK TECNOLÓGICO</sub>
 
----
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,py,java,html,css,tailwind,linux,windows,figma,github,vscode,git&theme=dark" />
-</p>
-<!--
-**sebassss-AM/sebassss-AM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=js,py,java,html,css,tailwind,linux,vercel,supabase,react,astro,github,vscode,git&theme=dark" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
