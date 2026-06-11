@@ -5,7 +5,6 @@
 <h1 align="center"><b>Hola, soy Sebastián</b></h1>
 
 ![Fullstack Developer Jr.](https://img.shields.io/badge/Fullstack_Developer_Jr.-0d0d0d?style=flat-square&logoColor=white)
-![IA & Prompt Engineering](https://img.shields.io/badge/IA_%26_Prompt_Engineering-0d0d0d?style=flat-square)
 ![Soporte Linux/Windows](https://img.shields.io/badge/Soporte_Linux%2FWindows-0d0d0d?style=flat-square)
 
 <br>
