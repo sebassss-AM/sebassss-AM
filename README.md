@@ -69,7 +69,35 @@ PWA diseñada para quienes buscan el control total de su dinero sin sacrificar s
 *- Optimizada para escritorio. Disponible también como PWA instalable en móvil.*
 
 ---
+---
+<sub><b>OTROS PROYECTOS</b></sub>
+<br>
 
+<h3><b>Eklipce</b> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/Tienda_Virtual-6E40C9?style=flat-square&logoColor=white"/></h3>
+
+*- E-commerce funcional con backend en la nube*
+
+Tienda virtual completa, responsive para desktop y móvil, con backend gestionado mediante Supabase.
+
+[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-0d0d0d?style=flat-square&logo=vercel&logoColor=white)](https://eklipce.vercel.app/)
+
+`React` `Vercel (despliegue)` `Supabase (BaaS)`
+
+---
+
+<h3><b>FixHub</b> &nbsp;·&nbsp; <img src="https://img.shields.io/badge/Soporte_Técnico-6E40C9?style=flat-square&logoColor=white"/></h3>
+
+*- Sistema de tickets para soporte técnico universitario*
+
+Plataforma de gestión de tickets para soporte técnico, responsive para desktop y móvil.
+
+[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-0d0d0d?style=flat-square&logo=render&logoColor=white)](https://fixhub-6n5i.onrender.com/)
+
+`Spring Boot` `Render (despliegue)` `Neon (BaaS)`
+
+> ⏱️ Nota: al usar el plan gratuito de Render, el servidor puede tardar unos 15 minutos en activarse si estuvo inactivo.
+
+---
 <div align="center">
 
 <sub><b>STACK TECNOLÓGICO</b></sub>
